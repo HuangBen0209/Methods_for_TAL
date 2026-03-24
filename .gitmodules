@@ -1,0 +1,30 @@
+[submodule "Actionformer"]
+	path = Actionformer
+	url = https://github.com/happyharrycn/actionformer_release.git
+[submodule "TemporalMaxer"]
+	path = TemporalMaxer
+	url = https://github.com/TuanTNG/TemporalMaxer.git
+[submodule "Trident"]
+	path = Trident
+	url = https://github.com/dingfengshi/TriDet.git
+[submodule "RTD-Net"]
+	path = RTD-Net
+	url = https://github.com/MCG-NJU/RTD-Action.git
+[submodule "TadTR"]
+	path = TadTR
+	url = https://github.com/xlliu7/TadTR.git
+[submodule "BMN"]
+	path = BMN
+	url = https://github.com/JJBOY/BMN-Boundary-Matching-Network.git
+[submodule "P-MIL"]
+	path = P-MIL
+	url = https://github.com/RenHuan1999/CVPR2023_P-MIL.git
+[submodule "UniMD"]
+	path = UniMD
+	url = https://github.com/yingsen1/UniMD.git
+[submodule "AdaTAD"]
+	path = AdaTAD
+	url = https://github.com/sming256/OpenTAD.git
+[submodule "VideoMambaSuite"]
+	path = VideoMambaSuite
+	url = https://github.com/OpenGVLab/video-mamba-suite.git
